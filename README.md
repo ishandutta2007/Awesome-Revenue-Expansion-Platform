@@ -42,53 +42,19 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-
-
-- **[Gainsight CS](https://www.gainsight.com/)**  
-
-  Enterprise customer success platform offering deep health scoring, journey orchestration, CTAs, revenue intelligence, and strong Salesforce integration for large-scale retention and expansion.
-
-
-
-- **[Vitally](https://www.vitally.io/)**  
-
-  Modern customer success platform popular with high-velocity SaaS teams for AI-assisted account intelligence, playbooks, Slack-first workflows, and product-led expansion signals.
-
-
-
-- **[Planhat](https://www.planhat.com/)**  
-
-  Customer platform that unifies data for health monitoring, workflow automation, and revenue expansion visibility across the customer lifecycle.
-
-
-
-- **[ChurnZero](https://churnzero.com/)**  
-
-  Real-time customer success platform focused on engagement tracking, automated plays, churn prevention, and expansion opportunities for mid-market and growth-stage companies.
-
-
-
-- **[Totango](https://www.totango.com/)**  
-
-  Modular customer success platform with journey orchestration, health scoring, and flexible workflows for retention and growth.
-
-
-
-- **[Catalyst, ClientSuccess](https://catalyst.io/)**  
-
-  CS platforms emphasizing team productivity, relationship management, and account growth for various company stages.
-
-
-
-- **[EverAfter, Dock, Arrows](https://www.everafter.ai/)**  
-
-  Customer onboarding, success portals, and collaboration tools that support expansion through better adoption and shared workspaces.
-
-
-
-- **[Other Customer Success & Expansion platforms](https://www.gainsight.com/)**  
-
-  Additional commercial solutions covering product analytics integration, renewal forecasting, and CS operations.
+| Platform | Primary Focus | Pricing (Starting Tier) | Free Tier / Free Trial Limits |
+| :--- | :--- | :--- | :--- |
+| **[Gainsight CS](https://www.gainsight.com/)** | Enterprise customer success & product intelligence platform with health scoring, journey orchestration, and deep Salesforce integration. | Starts at ~$1,200/user/year (~$24,000/year base tier for Essentials) | 30-day proof-of-concept trial upon demo (full platform access in dedicated sandbox); Gainsight PX offers a free starter tier for up to 100 MAUs |
+| **[Vitally](https://www.vitally.io/)** | High-velocity CS platform with AI account intelligence, automated playbooks, and Slack-first product-led expansion workflows. | Starts at $299/month (billed annually) | 14-day free trial (full-featured dedicated sandbox environment with sample and live data) |
+| **[Planhat](https://www.planhat.com/)** | Customer data and lifecycle management platform featuring health monitoring, workflow automation, and revenue expansion visibility. | Starts at $1,150/month (billed annually, Start-Up tier with unlimited internal users) | 30-day guided proof-of-concept pilot trial upon demo (limited to 500 managed customer accounts) |
+| **[ChurnZero](https://churnzero.com/)** | Real-time customer success platform focused on engagement tracking, automated plays, churn prevention, and expansion opportunity triggers. | Starts at $1,000/month (~$12,000/year billed annually, Professional tier) | 14-day guided proof-of-concept trial upon demo; free standalone Customer Success AI assistant (prompt drafting only, 0 CRM sync) |
+| **[Totango](https://www.totango.com/)** | Modular customer success platform featuring SuccessBLOCs, multidimensional health scoring, and customer journey orchestration. | Free forever tier available; paid Enterprise tiers start at ~$1,000/month (~$12,000/year billed annually) | Free forever Community Edition (up to 100 customer accounts, 3 user seats, 500 emails/month); 30-day Enterprise trial |
+| **[Catalyst](https://catalyst.io/)** | Customer growth platform focusing on playbook design, cross-functional collaboration, and automated expansion signals. | Starts at $1,250/month (~$15,000/year billed annually, Growth tier) | 14-day guided sandbox trial upon demo (up to 2,500 customer accounts and 5 custom CRM objects) |
+| **[ClientSuccess](https://www.clientsuccess.com/)** | Relationship-focused customer success platform emphasizing team productivity, customer health scoring, and renewal forecasting. | Starts at ~$475/month (~$5,700/year base tier; standard team tiers start around $12,000/year) | 14-day guided proof-of-concept trial upon consultation (full feature suite limited to test accounts and 1 CRM integration) |
+| **[EverAfter](https://www.everafter.ai/)** | AI-native customer interface platform for building personalized client portals, mutual action plans, and collaborative onboarding hubs. | Free forever tier available; paid plans start at ~$750/month (~$9,000/year billed annually) | Free forever plan (1 customer hub/portal, up to 5 user accounts); 14-day trial on premium modules |
+| **[Dock](https://www.dock.us/)** | Collaborative client-facing workspaces combining digital sales rooms, mutual onboarding plans, and client portals. | Free forever tier available; paid Standard tier starts at $350/month (includes 5 seats, additional seats $50/month) | Free forever plan (up to 10 workspaces, 25 CMS assets, 1 slide deck, 1 playbook, 1 LMS course, 1 order form, limited AI usage) |
+| **[Arrows](https://arrows.to/)** | HubSpot-native customer onboarding and collaboration platform providing mutual action plans linked to CRM deals. | Starts at $500/month (Growth tier covering active deal playbooks; Enterprise from $1,250/month) | 7-day free trial via HubSpot Marketplace (full onboarding plan builder and 2-way deal syncing) |
+| **[Custify](https://www.custify.com/)** | Customer success platform designed for B2B SaaS with automated onboarding playbooks, usage analytics, and health scoring. | Starts at $399/month (billed annually, Starter tier) | 14-day free trial upon demo request (full platform access with test customer data sync and health score configuration) |
 
 
 
