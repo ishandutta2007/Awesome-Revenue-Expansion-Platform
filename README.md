@@ -75,73 +75,73 @@ This repository tracks leading **SaaS platforms** and **open-source software rep
 
 *Each repository features a social star counter linking directly to its GitHub stargazers page, sorted descending by total stars:*
 
-1. **[n8n](https://github.com/n8n-io/n8n)** [![GitHub stars](https://img.shields.io/github/stars/n8n-io/n8n?style=social&color=white)](https://github.com/n8n-io/n8n/stargazers)  
+1. **[n8n](https://github.com/n8n-io/n8n)** [![GitHub_Stars](https://img.shields.io/github/stars/n8n-io/n8n?style=social&color=white)](https://github.com/n8n-io/n8n/stargazers)  
    Fair-code workflow automation platform with native AI capabilities. Widely utilized to build custom Customer Success playbooks, health-score updates, churn risk alerts, and expansion triggers across CRM, product, and support tools.
 
-2. **[Apache Superset](https://github.com/apache/superset)** [![GitHub stars](https://img.shields.io/github/stars/apache/superset?style=social&color=white)](https://github.com/apache/superset/stargazers)  
+2. **[Apache Superset](https://github.com/apache/superset)** [![GitHub_Stars](https://img.shields.io/github/stars/apache/superset?style=social&color=white)](https://github.com/apache/superset/stargazers)  
    Enterprise data exploration and visualization platform widely deployed for customer health score dashboards, cohort retention heatmaps, expansion opportunity reporting, and Net Revenue Retention (NRR) tracking.
 
-3. **[Twenty](https://github.com/twentyhq/twenty)** [![GitHub stars](https://img.shields.io/github/stars/twentyhq/twenty?style=social&color=white)](https://github.com/twentyhq/twenty/stargazers)  
+3. **[Twenty](https://github.com/twentyhq/twenty)** [![GitHub_Stars](https://img.shields.io/github/stars/twentyhq/twenty?style=social&color=white)](https://github.com/twentyhq/twenty/stargazers)  
    Modern open-source CRM alternative to Salesforce designed for AI workflows. Features full custom object architecture for account health tracking, renewal pipeline management, and expansion revenue scoring.
 
-4. **[Odoo](https://github.com/odoo/odoo)** [![GitHub stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers)  
+4. **[Odoo](https://github.com/odoo/odoo)** [![GitHub_Stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers)  
    Comprehensive open-source business management suite featuring integrated CRM, subscription billing, helpdesk, and customer portal modules for end-to-end customer lifecycle expansion.
 
-5. **[Metabase](https://github.com/metabase/metabase)** [![GitHub stars](https://img.shields.io/github/stars/metabase/metabase?style=social&color=white)](https://github.com/metabase/metabase/stargazers)  
+5. **[Metabase](https://github.com/metabase/metabase)** [![GitHub_Stars](https://img.shields.io/github/stars/metabase/metabase?style=social&color=white)](https://github.com/metabase/metabase/stargazers)  
    Self-service open-source business intelligence and embedded analytics tool that enables RevOps and CS teams to track customer lifetime value (LTV), health indicators, and renewal pipelines.
 
-6. **[Novu](https://github.com/novuhq/novu)** [![GitHub stars](https://img.shields.io/github/stars/novuhq/novu?style=social&color=white)](https://github.com/novuhq/novu/stargazers)  
+6. **[Novu](https://github.com/novuhq/novu)** [![GitHub_Stars](https://img.shields.io/github/stars/novuhq/novu?style=social&color=white)](https://github.com/novuhq/novu/stargazers)  
    Open-source communication infrastructure for agents and applications. Powers automated customer onboarding nudges, milestone celebrations, critical churn warnings, and multi-channel lifecycle notifications.
 
-7. **[PostHog](https://github.com/PostHog/posthog)** [![GitHub stars](https://img.shields.io/github/stars/PostHog/posthog?style=social&color=white)](https://github.com/PostHog/posthog/stargazers)  
+7. **[PostHog](https://github.com/PostHog/posthog)** [![GitHub_Stars](https://img.shields.io/github/stars/PostHog/posthog?style=social&color=white)](https://github.com/PostHog/posthog/stargazers)  
    Comprehensive open-source product analytics suite with session replay, feature flags, and product telemetry that feeds behavioral usage data directly into real-time customer health models and expansion triggers.
 
-8. **[Chatwoot](https://github.com/chatwoot/chatwoot)** [![GitHub stars](https://img.shields.io/github/stars/chatwoot/chatwoot?style=social&color=white)](https://github.com/chatwoot/chatwoot/stargazers)  
+8. **[Chatwoot](https://github.com/chatwoot/chatwoot)** [![GitHub_Stars](https://img.shields.io/github/stars/chatwoot/chatwoot?style=social&color=white)](https://github.com/chatwoot/chatwoot/stargazers)  
    Open-source omni-channel customer communication platform providing support ticket sentiment, issue volume trends, and direct customer feedback factors for retention scoring.
 
-9. **[Airbyte](https://github.com/airbytehq/airbyte)** [![GitHub stars](https://img.shields.io/github/stars/airbytehq/airbyte?style=social&color=white)](https://github.com/airbytehq/airbyte/stargazers)  
+9. **[Airbyte](https://github.com/airbytehq/airbyte)** [![GitHub_Stars](https://img.shields.io/github/stars/airbytehq/airbyte?style=social&color=white)](https://github.com/airbytehq/airbyte/stargazers)  
    Open-source ELT data pipeline engine that centralizes billing, CRM, support, and product telemetry into data warehouses for unified multi-dimensional customer health scoring.
 
-10. **[Parlant](https://github.com/emcie-co/parlant)** [![GitHub stars](https://img.shields.io/github/stars/emcie-co/parlant?style=social&color=white)](https://github.com/emcie-co/parlant/stargazers)  
+10. **[Parlant](https://github.com/emcie-co/parlant)** [![GitHub_Stars](https://img.shields.io/github/stars/emcie-co/parlant?style=social&color=white)](https://github.com/emcie-co/parlant/stargazers)  
     Interaction control harness and framework for deploying predictable, reliable customer-facing AI agents for post-sale journeys, automated customer check-ins, and proactive support.
 
-11. **[dbt Core](https://github.com/dbt-labs/dbt-core)** [![GitHub stars](https://img.shields.io/github/stars/dbt-labs/dbt-core?style=social&color=white)](https://github.com/dbt-labs/dbt-core/stargazers)  
+11. **[dbt Core](https://github.com/dbt-labs/dbt-core)** [![GitHub_Stars](https://img.shields.io/github/stars/dbt-labs/dbt-core?style=social&color=white)](https://github.com/dbt-labs/dbt-core/stargazers)  
     Data transformation workflow enabling analytics engineers to transform raw product events, subscription billing records, and CRM stages into customer health scores and churn prediction tables.
 
-12. **[GrowthBook](https://github.com/growthbook/growthbook)** [![GitHub stars](https://img.shields.io/github/stars/growthbook/growthbook?style=social&color=white)](https://github.com/growthbook/growthbook/stargazers)  
+12. **[GrowthBook](https://github.com/growthbook/growthbook)** [![GitHub_Stars](https://img.shields.io/github/stars/growthbook/growthbook?style=social&color=white)](https://github.com/growthbook/growthbook/stargazers)  
     Open-source feature flagging and A/B experimentation platform enabling product-led onboarding funnels, entitlement gating, and feature adoption tracking for expansion opportunities.
 
-13. **[SuiteCRM](https://github.com/SuiteCRM/SuiteCRM)** [![GitHub stars](https://img.shields.io/github/stars/SuiteCRM/SuiteCRM?style=social&color=white)](https://github.com/SuiteCRM/SuiteCRM/stargazers)  
+13. **[SuiteCRM](https://github.com/SuiteCRM/SuiteCRM)** [![GitHub_Stars](https://img.shields.io/github/stars/SuiteCRM/SuiteCRM?style=social&color=white)](https://github.com/SuiteCRM/SuiteCRM/stargazers)  
     Enterprise-ready open-source CRM platform providing extensible data models for tracking client accounts, renewal cycles, custom health fields, and expansion opportunities.
 
-14. **[Kill Bill](https://github.com/killbill/killbill)** [![GitHub stars](https://img.shields.io/github/stars/killbill/killbill?style=social&color=white)](https://github.com/killbill/killbill/stargazers)  
+14. **[Kill Bill](https://github.com/killbill/killbill)** [![GitHub_Stars](https://img.shields.io/github/stars/killbill/killbill?style=social&color=white)](https://github.com/killbill/killbill/stargazers)  
     Open-source subscription billing and payments platform designed for complex SaaS licensing, usage-based metering, invoice generation, and revenue recognition tracking.
 
-15. **[RudderStack](https://github.com/rudderlabs/rudder-server)** [![GitHub stars](https://img.shields.io/github/stars/rudderlabs/rudder-server?style=social&color=white)](https://github.com/rudderlabs/rudder-server/stargazers)  
+15. **[RudderStack](https://github.com/rudderlabs/rudder-server)** [![GitHub_Stars](https://img.shields.io/github/stars/rudderlabs/rudder-server?style=social&color=white)](https://github.com/rudderlabs/rudder-server/stargazers)  
     Privacy-focused customer data platform (CDP) capturing real-time behavioral telemetry and routing product usage events directly into customer success and analytics engines.
 
-16. **[Deepchecks](https://github.com/deepchecks/deepchecks)** [![GitHub stars](https://img.shields.io/github/stars/deepchecks/deepchecks?style=social&color=white)](https://github.com/deepchecks/deepchecks/stargazers)  
+16. **[Deepchecks](https://github.com/deepchecks/deepchecks)** [![GitHub_Stars](https://img.shields.io/github/stars/deepchecks/deepchecks?style=social&color=white)](https://github.com/deepchecks/deepchecks/stargazers)  
     Continuous validation and automated testing framework for machine learning models and data pipelines, guaranteeing the integrity and reliability of churn prediction algorithms.
 
-17. **[Dittofeed](https://github.com/dittofeed/dittofeed)** [![GitHub stars](https://img.shields.io/github/stars/dittofeed/dittofeed?style=social&color=white)](https://github.com/dittofeed/dittofeed/stargazers)  
+17. **[Dittofeed](https://github.com/dittofeed/dittofeed)** [![GitHub_Stars](https://img.shields.io/github/stars/dittofeed/dittofeed?style=social&color=white)](https://github.com/dittofeed/dittofeed/stargazers)  
     Open-source customer engagement platform automating multi-channel retention campaigns, onboarding emails, SMS nudges, and behavioral re-engagement triggers.
 
-18. **[Libredesk](https://github.com/abhinavxd/libredesk)** [![GitHub stars](https://img.shields.io/github/stars/abhinavxd/libredesk?style=social&color=white)](https://github.com/abhinavxd/libredesk/stargazers)  
+18. **[Libredesk](https://github.com/abhinavxd/libredesk)** [![GitHub_Stars](https://img.shields.io/github/stars/abhinavxd/libredesk?style=social&color=white)](https://github.com/abhinavxd/libredesk/stargazers)  
     Lightweight, self-hosted single-binary customer support desk providing clean interaction histories and ticket resolution metrics for account health evaluation.
 
-19. **[WTTE-RNN](https://github.com/ragulpr/wtte-rnn)** [![GitHub stars](https://img.shields.io/github/stars/ragulpr/wtte-rnn?style=social&color=white)](https://github.com/ragulpr/wtte-rnn/stargazers)  
+19. **[WTTE-RNN](https://github.com/ragulpr/wtte-rnn)** [![GitHub_Stars](https://img.shields.io/github/stars/ragulpr/wtte-rnn?style=social&color=white)](https://github.com/ragulpr/wtte-rnn/stargazers)  
     Machine learning framework implementing Weibull Time-To-Event Recurrent Neural Networks for churn prediction, time-to-churn forecasting, and customer lifetime value estimation.
 
-20. **[GTM Agents](https://github.com/gtmagents/gtm-agents)** [![GitHub stars](https://img.shields.io/github/stars/gtmagents/gtm-agents?style=social&color=white)](https://github.com/gtmagents/gtm-agents/stargazers)  
+20. **[GTM Agents](https://github.com/gtmagents/gtm-agents)** [![GitHub_Stars](https://img.shields.io/github/stars/gtmagents/gtm-agents?style=social&color=white)](https://github.com/gtmagents/gtm-agents/stargazers)  
     Production-ready collection of GTM agents and specialized skills covering sales, marketing, customer success, and revenue operations workflows.
 
-21. **[GTM Cheat Codes](https://github.com/zapier/gtm-cheat-codes)** [![GitHub stars](https://img.shields.io/github/stars/zapier/gtm-cheat-codes?style=social&color=white)](https://github.com/zapier/gtm-cheat-codes/stargazers)  
+21. **[GTM Cheat Codes](https://github.com/zapier/gtm-cheat-codes)** [![GitHub_Stars](https://img.shields.io/github/stars/zapier/gtm-cheat-codes?style=social&color=white)](https://github.com/zapier/gtm-cheat-codes/stargazers)  
     Zapier's open-source field guide and coding agent skills for campaign planning, CRM context synchronization, and customer retention workflows.
 
-22. **[Customer Survival Analysis & Churn Prediction](https://github.com/archd3sai/Customer-Survival-Analysis-and-Churn-Prediction)** [![GitHub stars](https://img.shields.io/github/stars/archd3sai/Customer-Survival-Analysis-and-Churn-Prediction?style=social&color=white)](https://github.com/archd3sai/Customer-Survival-Analysis-and-Churn-Prediction/stargazers)  
+22. **[Customer Survival Analysis & Churn Prediction](https://github.com/archd3sai/Customer-Survival-Analysis-and-Churn-Prediction)** [![GitHub_Stars](https://img.shields.io/github/stars/archd3sai/Customer-Survival-Analysis-and-Churn-Prediction?style=social&color=white)](https://github.com/archd3sai/Customer-Survival-Analysis-and-Churn-Prediction/stargazers)  
     Machine learning and survival analysis pipeline using Random Forest and hazard models to calculate churn probabilities over time and estimate customer LTV.
 
-23. **[Distilled CS](https://github.com/saneeshnp/distilled-cs)** [![GitHub stars](https://img.shields.io/github/stars/saneeshnp/distilled-cs?style=social&color=white)](https://github.com/saneeshnp/distilled-cs/stargazers)  
+23. **[Distilled CS](https://github.com/saneeshnp/distilled-cs)** [![GitHub_Stars](https://img.shields.io/github/stars/saneeshnp/distilled-cs?style=social&color=white)](https://github.com/saneeshnp/distilled-cs/stargazers)  
     Vendor-neutral open framework to assess Customer Success team maturity, audit retention strategies, and design operational customer health-scoring workflows.
 
 ---
